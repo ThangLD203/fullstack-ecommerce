@@ -1617,11 +1617,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\code\\Devops\\projects\\ecommerce-fullstack-netcore-react\\backend\\backend.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Work\\Pipeline dev-sec-ops\\fullstack-ecommerce\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\code\\Devops\\projects\\ecommerce-fullstack-netcore-react\\backend\\backend.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\Work\\Pipeline dev-sec-ops\\fullstack-ecommerce\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\code\\Devops\\projects\\ecommerce-fullstack-netcore-react\\backend\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\Work\\Pipeline dev-sec-ops\\fullstack-ecommerce\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
